@@ -13,7 +13,7 @@
 * [Próximos Passos](#Próximos-Passos)
 * [Autores](#Autores)
 * [Conclusão](#Conclusão)
-* [Anexos](#Anexos)
+
 <br />
 
   # História da Empresa :books:
@@ -44,3 +44,35 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
   - Jira Software
   - GitHub
   - Google Colab
+
+# Plano de Entrega
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
+# Resultado das Análises
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
+# Recomendações
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
+# Próximos Passos
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
+# Autores
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
+# Conclusão
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
+
