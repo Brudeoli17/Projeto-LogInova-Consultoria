@@ -1,2 +1,2 @@
-# Consultoria LogInova
-![logo](https://github.com/Brudeoli17/Projeto-Marcus/blob/main/Logotipo%20Consultoria.jpg)
+# <h1 align="center"> Consultoria LogInova 
+  ![logo](https://github.com/Brudeoli17/Projeto-Marcus/blob/main/Logotipo%20Consultoria.jpg)
