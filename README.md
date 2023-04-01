@@ -29,6 +29,7 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
 <br />
 
   # Funcionalidades do Projeto :hammer_and_wrench:
+  
     Funcionalidade 1: Análise de processos logísticos existentes para identificar oportunidades de melhoria
     
     Funcionalidade 2: Análise de processos logísticos existentes para identificar oportunidades de melhoria
@@ -40,6 +41,7 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
 <br />
 
   # Metodologia Utilizada :man_technologist:
+  
   A LogInova utiliza uma variedade de tecnologias para ajudar seus clientes a melhorar a eficiência de suas operações logísticas. Algumas das tecnologias mais comuns     usadas pela empresa incluem:
   - Jira Software
   - GitHub
