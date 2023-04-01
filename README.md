@@ -8,6 +8,7 @@
 * [Funcionalidades do Projeto](#Funcionalidades-do-Projeto)
 * [Metodologia Utilizada](#Metodologia-Utilizada)
 * [Plano de Entrega](#Plano-de-Entrega)
+* [Glossário](#Glossario)
 * [Resultado das Análises](#Resultado-das-Análises)
 * [Recomendações](#Recomendações)
 * [Próximos Passos](#Próximos-Passos)
@@ -29,7 +30,6 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
 <br />
 
   # Funcionalidades do Projeto :hammer_and_wrench:
-  
     Funcionalidade 1: Análise de processos logísticos existentes para identificar oportunidades de melhoria
     
     Funcionalidade 2: Análise de processos logísticos existentes para identificar oportunidades de melhoria
@@ -41,7 +41,6 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
 <br />
 
   # Metodologia Utilizada :man_technologist:
-  
   A LogInova utiliza uma variedade de tecnologias para ajudar seus clientes a melhorar a eficiência de suas operações logísticas. Algumas das tecnologias mais comuns     usadas pela empresa incluem:
   - Jira Software
   - GitHub
@@ -51,6 +50,33 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
+
+# Glossário
+Tabela Clientes:
+- CO.Cliente = Código do cliente 
+- MUN = Múnicipio que o cliente reside
+- LAT = Latitudade de onde o cliente reside 
+- LONG = Longitude de onde o cliente reside 
+
+Fábricas: 
+- CO.Fabrica = Código da Fábrica
+- NO_MUN = Nome do múnicipio onde fica a fábrica
+- NO_MUN_MIN = Nome do múnicipio minúsculo
+- SG_UF = Segmento das Unidades federativas do Brasil
+
+Rotas:
+- Dt.Fat = Data de faturamento da mercadoria
+- Dt.Entrega = Data de entrega 
+- Mes.Base = Em que mês está sendo realizado a data de faturamento/entrega
+- Ano.Exec = Ano em que está sendo exercico o faturamento/entrega
+- CO.Fabrica = Código da fábrica
+- CO.Cliente = Código do cliente 
+- Tp.Operacao = Tipo de operação
+- Incoterm = Qual modelo de modal utilizado
+- Veiculo = Veículo utilizado 
+- Qtd.Transp = Quantidade transportada
+- Moeda = Moeda utlizada para pagamento
+- Vlr.Frete = Valor do frete
 
 # Resultado das Análises
 <p align="center">
