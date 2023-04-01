@@ -1,4 +1,4 @@
-![logo](https://github.com/Brudeoli17/Projeto-Marcus/blob/main/LogInova.gif)
+![logo](Imagens/LogInova.gif)
 
   
   # Índice 
