@@ -23,7 +23,7 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
 
 <br />
 
-  # Contexto-e-Objetivos-do-Projeto :dart:
+  # Contexto e Objetivos do Projeto :dart:
   O objetivo do projeto da LogInova é ajudar a organização cliente a melhorar suas operações logísticas, reduzir custos e aumentar a eficiência. O projeto pode incluir análises detalhadas dos processos logísticos da organização, identificação de gargalos, sugestões de melhorias, implementação de tecnologias e métodos mais eficientes, e recomendações de melhores práticas do setor.
   
 <br />
