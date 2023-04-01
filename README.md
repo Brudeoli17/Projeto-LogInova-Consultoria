@@ -1,5 +1,4 @@
-# <h1 align="center">Consultoria LogInova </h1>
-<width="100" height="100">![logo](https://github.com/Brudeoli17/Projeto-Marcus/blob/main/Logotipo%20Consultoria.jpg)
+![logo](https://github.com/Brudeoli17/Projeto-Marcus/blob/main/LogInova.gif)
 
   
   # Índice 
