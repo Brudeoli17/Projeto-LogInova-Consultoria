@@ -55,30 +55,50 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
 
 # Glossário
 Tabela Clientes:
-- CO.Cliente = Código do cliente 
+- CO.Cliente = Código do cliente
+  - Ex.: 2301
 - MUN = Múnicipio que o cliente reside
+  - Ex.: AMERICANA
 - LAT = Latitudade de onde o cliente reside 
+  - Ex.: 2347084
 - LONG = Longitude de onde o cliente reside 
-
+  - Ex.: 4760181
+  
 Fábricas: 
 - CO.Fabrica = Código da Fábrica
+  - Ex.: 3424402
 - NO_MUN = Nome do múnicipio onde fica a fábrica
+  - Ex.: ITU
 - NO_MUN_MIN = Nome do múnicipio minúsculo
+  - Ex.: Itu
 - SG_UF = Segmento das Unidades federativas do Brasil
+  - Ex.: SP
 
 Rotas:
 - Dt.Fat = Data de faturamento da mercadoria
+  - Ex.: 44110
 - Dt.Entrega = Data de entrega 
+  - Ex.: 44216
 - Mes.Base = Em que mês está sendo realizado a data de faturamento/entrega
+  - Ex.: Jan
 - Ano.Exec = Ano em que está sendo exercico o faturamento/entrega
+  - Ex.: 2022
 - CO.Fabrica = Código da fábrica
+  - Ex.: 3423909
 - CO.Cliente = Código do cliente 
+  - Ex.: 2349
 - Tp.Operacao = Tipo de operação
+  - Ex.: VD ou DV
 - Incoterm = Qual modelo de modal utilizado
+  - Ex.: FOB
 - Veiculo = Veículo utilizado 
+  - Ex.: P12
 - Qtd.Transp = Quantidade transportada
+  - Ex.: 1600 / -1800
 - Moeda = Moeda utlizada para pagamento
+  - Ex.: BRL
 - Vlr.Frete = Valor do frete
+  - Ex.: 0 / 8037
 
 # Resultado das Análises
 <p align="center">
