@@ -35,7 +35,7 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
     
  - `Funcionalidade 2`: Análise de processos logísticos existentes para identificar oportunidades de melhoria
     
-    - `Funcionalidade 2a`: Desenvolvimento de soluções personalizadas para atender às necessidades específicas do cliente
+ - `Funcionalidade 2a`: Desenvolvimento de soluções personalizadas para atender às necessidades específicas do cliente
     
  - `Funcionalidade 3`: Identificação de gargalos e recomendações de ações para solucioná-los
   
