@@ -16,6 +16,8 @@
 * [Conclusão](#Conclusão)
 * [Anexos](#Anexos)
   
+  
+  
   # História da Empresa
   A LogInova é uma empresa de consultoria em logística fundada em 2022 por um grupo de profissionais com vasta experiência no setor. A empresa foi criada com o objetivo de ajudar organizações a otimizar suas operações logísticas, reduzir custos e melhorar a eficiência.
 A empresa trabalha em estreita colaboração com seus clientes para entender suas necessidades específicas e desenvolver soluções sob medida que atendam a essas necessidades. Além disso, a empresa está sempre atualizada com as tendências e tecnologias mais recentes no setor logístico, permitindo que seus clientes se mantenham competitivos.
