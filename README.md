@@ -4,7 +4,7 @@
   # Índice 
 
 * [História da Empresa](#História-da-Empresa)
-* [Contexto e Objetivos do Projeto](#Contexto-e-Objetivos-do-Projeto)
+* [Contexto e Objetivos do Projeto](#Contexto-e-Objetivos)
 * [Funcionalidades do Projeto](#Funcionalidades-do-Projeto)
 * [Metodologia Utilizada](#Metodologia-Utilizada)
 * [Plano de Entrega](#Plano-de-Entrega)
