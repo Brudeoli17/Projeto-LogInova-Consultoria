@@ -21,11 +21,11 @@ A empresa trabalha em estreita colaboração com seus clientes para entender sua
 A LogInova também é reconhecida por seus consultores altamente qualificados, que possuem ampla experiência em diferentes áreas da logística, incluindo gestão de estoques, gestão de transporte, planejamento de rotas, armazenagem e distribuição.
 </p>
 
-# Contexto e Objetivos do Projeto  :dart:
+# Contexto e Objetivos do Projeto
   O objetivo do projeto da LogInova é ajudar a organização do cliente a melhorar suas operações logísticas, reduzir custos e aumentar a eficiência. O projeto pode incluir análises detalhadas dos processos logísticos da organização, identificação de gargalos, sugestões de melhorias, implementação de tecnologias e métodos mais eficientes, e recomendações de melhores práticas do setor.
 </p>
 
-#  Funcionalidades do projeto  :hammer:
+#  Funcionalidades do projeto
 
  - `Funcionalidade 1`: Análise de processos logísticos existentes para identificar oportunidades de melhoria
     
@@ -36,7 +36,7 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
  - `Funcionalidade 3`: Identificação de gargalos e recomendações de ações para solucioná-los
  </p>
   
-# Metodologia Utilizada  :man_technologist:
+# Metodologia Utilizada
   A LogInova utiliza uma variedade de tecnologias para ajudar seus clientes a melhorar a eficiência de suas operações logísticas. Algumas das tecnologias mais comuns     usadas pela empresa incluem:
   - Jira Software
   - GitHub
