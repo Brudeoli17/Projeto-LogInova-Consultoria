@@ -14,7 +14,6 @@
 * [Recomendações](#Recomendações)
 * [Próximos Passos](#Próximos-Passos)
 * [Autores](#Autores)
-* [Sprint 1](#Sprint-1)
 * [Conclusão](#Conclusão)
 
 # História da Empresa 📚
@@ -46,9 +45,13 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
 </p>
 
 # Plano de Entrega
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>
+**Sprint 1**
+- [x] Login Jira e Github
+- [x] Análise de dados através de programação python
+- [x] Apontamento das inconsistências
+- [x] Modelo Dashboard
+- [x] Documentação (Ata e Glossário)
+- [x] Introdução ao Github
 
 # Glossário
 Um glossário é um determinado domínio de conhecimento com a definição de termos de difícil compreensão.  
@@ -79,14 +82,6 @@ Caso tenha interesse acesse o link abaixo:
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
-
-# Sprint 1
-- [x] Login Jira e Github
-- [x] Análise de dados através de programação python
-- [x] Apontamento das inconsistências
-- [x] Modelo Dashboard
-- [x] Documentação (Ata e Glossário)
-- [x] Introdução ao Github
 
 
 # Conclusão
