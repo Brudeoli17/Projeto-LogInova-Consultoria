@@ -29,7 +29,7 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
   
 <br />
 
-# :hammer: Funcionalidades do projeto
+#  Funcionalidades do projeto :hammer:
 
  - `Funcionalidade 1`: Análise de processos logísticos existentes para identificar oportunidades de melhoria
     
