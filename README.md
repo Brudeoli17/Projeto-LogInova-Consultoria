@@ -3,33 +3,29 @@
   
   # Índice 
 
-* [História da Empresa](#História-da-Empresa)
-* [Contexto e Objetivos do Projeto](#Contexto-e-Objetivos-do-Projeto)
-* [Funcionalidades do Projeto](#Funcionalidades-do-Projeto)
-* [Metodologia Utilizada](#Metodologia-Utilizada)
+* [História da Empresa](#História-da-Empresa-)
+* [Contexto e Objetivos do Projeto](#Contexto-e-Objetivos-do-Projeto-)
+* [Funcionalidades do Projeto](#Funcionalidades-do-Projeto-)
+* [Metodologia Utilizada](#Metodologia-Utilizada-)
 * [Plano de Entrega](#Plano-de-Entrega)
-* [Glossário](#Glossario)
+* [Glossário](#Glossário)
 * [Resultado das Análises](#Resultado-das-Análises)
 * [Recomendações](#Recomendações)
 * [Próximos Passos](#Próximos-Passos)
 * [Autores](#Autores)
 * [Conclusão](#Conclusão)
 
-<br />
-
-  # História da Empresa :books:
+# História da Empresa 📚
   A LogInova é uma empresa de consultoria em logística fundada em 2022 por um grupo de profissionais com vasta experiência no setor. A empresa foi criada com o objetivo de ajudar organizações a otimizar suas operações logísticas, reduzir custos e melhorar a eficiência.
 A empresa trabalha em estreita colaboração com seus clientes para entender suas necessidades específicas e desenvolver soluções sob medida que atendam a essas necessidades. Além disso, a empresa está sempre atualizada com as tendências e tecnologias mais recentes no setor logístico, permitindo que seus clientes se mantenham competitivos.
 A LogInova também é reconhecida por seus consultores altamente qualificados, que possuem ampla experiência em diferentes áreas da logística, incluindo gestão de estoques, gestão de transporte, planejamento de rotas, armazenagem e distribuição.
+</p>
 
-<br />
-
-  # Contexto e Objetivos do Projeto :dart:
+# Contexto e Objetivos do Projeto 🎯
   O objetivo do projeto da LogInova é ajudar a organização do cliente a melhorar suas operações logísticas, reduzir custos e aumentar a eficiência. O projeto pode incluir análises detalhadas dos processos logísticos da organização, identificação de gargalos, sugestões de melhorias, implementação de tecnologias e métodos mais eficientes, e recomendações de melhores práticas do setor.
-  
-<br />
+</p>
 
-# :hammer: Funcionalidades do projeto
+#  Funcionalidades do projeto 🔨
 
  - `Funcionalidade 1`: Análise de processos logísticos existentes para identificar oportunidades de melhoria
     
@@ -38,15 +34,14 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
  - `Funcionalidade 2a`: Desenvolvimento de soluções personalizadas para atender às necessidades específicas do cliente
     
  - `Funcionalidade 3`: Identificação de gargalos e recomendações de ações para solucioná-los
+ </p>
   
-    
-<br />
-
-  # Metodologia Utilizada :man_technologist:
+# Metodologia Utilizada 👨‍💻
   A LogInova utiliza uma variedade de tecnologias para ajudar seus clientes a melhorar a eficiência de suas operações logísticas. Algumas das tecnologias mais comuns     usadas pela empresa incluem:
   - Jira Software
   - GitHub
   - Google Colab
+</p>
 
 # Plano de Entrega
 <p align="center">
@@ -54,51 +49,14 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
 </p>
 
 # Glossário
-Tabela Clientes:
-- CO.Cliente = Código do cliente
-  - Ex.: 2301
-- MUN = Múnicipio que o cliente reside
-  - Ex.: AMERICANA
-- LAT = Latitudade de onde o cliente reside 
-  - Ex.: 2347084
-- LONG = Longitude de onde o cliente reside 
-  - Ex.: 4760181
-  
-Fábricas: 
-- CO.Fabrica = Código da Fábrica
-  - Ex.: 3424402
-- NO_MUN = Nome do múnicipio onde fica a fábrica
-  - Ex.: ITU
-- NO_MUN_MIN = Nome do múnicipio minúsculo
-  - Ex.: Itu
-- SG_UF = Segmento das Unidades federativas do Brasil
-  - Ex.: SP
+Um glossário é um determinado domínio de conhecimento com a definição de termos de difícil compreensão.  
+Nesse caso são os título de cada celula do excel, para isso geramos um 
+link de fácil acesso para entendermos esses termos.
+Caso tenha interesse acesse o link abaixo: 
 
-Rotas:
-- Dt.Fat = Data de faturamento da mercadoria
-  - Ex.: 44110
-- Dt.Entrega = Data de entrega 
-  - Ex.: 44216
-- Mes.Base = Em que mês está sendo realizado a data de faturamento/entrega
-  - Ex.: Jan
-- Ano.Exec = Ano em que está sendo exercico o faturamento/entrega
-  - Ex.: 2022
-- CO.Fabrica = Código da fábrica
-  - Ex.: 3423909
-- CO.Cliente = Código do cliente 
-  - Ex.: 2349
-- Tp.Operacao = Tipo de operação
-  - Ex.: VD ou DV
-- Incoterm = Qual modelo de modal utilizado
-  - Ex.: FOB
-- Veiculo = Veículo utilizado 
-  - Ex.: P12
-- Qtd.Transp = Quantidade transportada
-  - Ex.: 1600 / -1800
-- Moeda = Moeda utlizada para pagamento
-  - Ex.: BRL
-- Vlr.Frete = Valor do frete
-  - Ex.: 0 / 8037
+- <a href='https://github.com/Brudeoli17/Projeto-Marcus/blob/main/Documentos/GLOSS%C3%81RIO.pdf'><button>Glossário</button></a>
+
+<br/>
 
 # Resultado das Análises
 <p align="center">
