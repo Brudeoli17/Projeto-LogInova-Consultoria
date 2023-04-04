@@ -49,9 +49,14 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
 </p>
 
 # Glossário
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>
+Um glossário é um determinado domínio de conhecimento com a definição de termos de difícil compreensão.  
+Nesse caso são os título de cada celula do excel, para isso geramos um 
+link de fácil acesso para entendermos esses termos.
+Caso tenha interesse acesse o link abaixo: 
+
+- <a href='https://github.com/Brudeoli17/Projeto-Marcus/blob/main/Documentos/GLOSS%C3%81RIO.pdf'><button>Glossário</button></a>
+
+<br/>
 
 # Resultado das Análises
 <p align="center">
