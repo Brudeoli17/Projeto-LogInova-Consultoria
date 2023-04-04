@@ -4,7 +4,7 @@
   # Índice 
 
 * [História da Empresa](#História-da-Empresa)
-* [Contexto e Objetivos do Projeto](#Contexto-e-Objetivos)
+* [Contexto e Objetivos do Projeto](#Contexto-e-Objetivos-do-Projeto)
 * [Funcionalidades do Projeto](#Funcionalidades-do-Projeto)
 * [Metodologia Utilizada](#Metodologia-Utilizada)
 * [Plano de Entrega](#Plano-de-Entrega)
@@ -14,8 +14,6 @@
 * [Próximos Passos](#Próximos-Passos)
 * [Autores](#Autores)
 * [Conclusão](#Conclusão)
-
-<br />
 
 # História da Empresa :books:
   A LogInova é uma empresa de consultoria em logística fundada em 2022 por um grupo de profissionais com vasta experiência no setor. A empresa foi criada com o objetivo de ajudar organizações a otimizar suas operações logísticas, reduzir custos e melhorar a eficiência.
@@ -27,7 +25,6 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
 # Contexto e Objetivos do Projeto :dart:
   O objetivo do projeto da LogInova é ajudar a organização do cliente a melhorar suas operações logísticas, reduzir custos e aumentar a eficiência. O projeto pode incluir análises detalhadas dos processos logísticos da organização, identificação de gargalos, sugestões de melhorias, implementação de tecnologias e métodos mais eficientes, e recomendações de melhores práticas do setor.
   
-<br />
 
 #  Funcionalidades do projeto :hammer:
 
@@ -39,9 +36,6 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
     
  - `Funcionalidade 3`: Identificação de gargalos e recomendações de ações para solucioná-los
   
-    
-<br />
-
 # Metodologia Utilizada :man_technologist:
   A LogInova utiliza uma variedade de tecnologias para ajudar seus clientes a melhorar a eficiência de suas operações logísticas. Algumas das tecnologias mais comuns     usadas pela empresa incluem:
   - Jira Software
