@@ -5,7 +5,7 @@
 
 * [História da Empresa](#História-da-Empresa)
 * [Contexto e Objetivos do Projeto](#Contexto-e-Objetivos-do-Projeto)
-* [Funcionalidades do Projeto](#Funcionalidades-do-Projeto)
+* [Funcionalidades do Projeto](#Funcionalidades_do_Projeto)
 * [Metodologia Utilizada](#Metodologia-Utilizada)
 * [Plano de Entrega](#Plano-de-Entrega)
 * [Glossário](#Glossario)
