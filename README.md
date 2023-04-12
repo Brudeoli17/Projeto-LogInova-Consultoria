@@ -102,7 +102,7 @@ Caso tenha interesse acesse o link abaixo:
 # Autores
 LinkedIn| Foto| Nome
 
-
+https://www.linkedin.com/in/gabriela-let%C3%ADcia-6435151a2
 
 
 <p align="right"><a href="#top">voltar ao topo</a></p>
