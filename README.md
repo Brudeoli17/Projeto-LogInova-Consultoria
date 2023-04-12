@@ -100,10 +100,9 @@ Caso tenha interesse acesse o link abaixo:
 <p align="right"><a href="#top">voltar ao topo</a></p>
 
 # Autores
-LinkedIn| Foto| Nome
-
-https://www.linkedin.com/in/gabriela-let%C3%ADcia-6435151a2
-
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
 
 <p align="right"><a href="#top">voltar ao topo</a></p>
 
