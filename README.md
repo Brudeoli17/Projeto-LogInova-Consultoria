@@ -1,8 +1,11 @@
+<div id="top"></div>
+
 ![logo](Imagens/LogInova.gif)
 
   <h1 align="center"> :construction: Projeto em construção :construction: </h1>
   
   # Índice 
+
 
 * [História da Empresa](#História-da-Empresa-)
 * [Contexto e Objetivos do Projeto](#Contexto-e-Objetivos-do-Projeto-)
@@ -22,9 +25,13 @@ A empresa trabalha em estreita colaboração com seus clientes para entender sua
 A LogInova também é reconhecida por seus consultores altamente qualificados, que possuem ampla experiência em diferentes áreas da logística, incluindo gestão de estoques, gestão de transporte, planejamento de rotas, armazenagem e distribuição.
 </p>
 
+<p align="right"><a href="#top">voltar ao topo</a></p>
+
 # Contexto e Objetivos do Projeto 🎯
   O objetivo do projeto da LogInova é ajudar a organização do cliente a melhorar suas operações logísticas, reduzir custos e aumentar a eficiência. O projeto pode incluir análises detalhadas dos processos logísticos da organização, identificação de gargalos, sugestões de melhorias, implementação de tecnologias e métodos mais eficientes, e recomendações de melhores práticas do setor.
 </p>
+
+<p align="right"><a href="#top">voltar ao topo</a></p>
 
 #  Funcionalidades do projeto 🔨
 
@@ -36,6 +43,8 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
     
  - `Funcionalidade 3`: Identificação de gargalos e recomendações de ações para solucioná-los
  </p>
+ 
+ <p align="right"><a href="#top">voltar ao topo</a></p>
   
 # Metodologia Utilizada 👨‍💻
   A LogInova utiliza uma variedade de tecnologias para ajudar seus clientes a melhorar a eficiência de suas operações logísticas. Algumas das tecnologias mais comuns     usadas pela empresa incluem:
@@ -43,6 +52,8 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
   - GitHub
   - Google Colab
 </p>
+
+<p align="right"><a href="#top">voltar ao topo</a></p>
 
 # Plano de Entrega
 **Sprint 1**
@@ -53,6 +64,8 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
 - [x] Documentação (Ata e Glossário)
 - [x] Introdução ao Github
 
+<p align="right"><a href="#top">voltar ao topo</a></p>
+
 # Glossário
 Um glossário é um determinado domínio de conhecimento com a definição de termos de difícil compreensão.  
 Nesse caso são os título de cada célula do excel, para isso geramos um 
@@ -61,6 +74,8 @@ Caso tenha interesse acesse o link abaixo:
 
 - <a href='https://github.com/Brudeoli17/Projeto-Marcus/blob/main/Documentos/GLOSS%C3%81RIO.pdf'><button>Glossário</button></a>
 
+<p align="right"><a href="#top">voltar ao topo</a></p>
+
 <br/>
 
 # Resultado das Análises
@@ -68,25 +83,35 @@ Caso tenha interesse acesse o link abaixo:
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
+<p align="right"><a href="#top">voltar ao topo</a></p>
+
 # Recomendações
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
+
+<p align="right"><a href="#top">voltar ao topo</a></p>
 
 # Próximos Passos
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
+<p align="right"><a href="#top">voltar ao topo</a></p>
+
 # Autores
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
+
+<p align="right"><a href="#top">voltar ao topo</a></p>
 
 
 # Conclusão
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
+
+<p align="right"><a href="#top">voltar ao topo</a></p>
 
 
