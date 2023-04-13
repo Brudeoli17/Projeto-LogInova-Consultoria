@@ -15,7 +15,6 @@
 * [Glossário](#Glossário)
 * [Resultado das Análises](#Resultado-das-Análises)
 * [Recomendações](#Recomendações)
-* [Próximos Passos](#Próximos-Passos)
 * [Autores](#Autores)
 * [Conclusão](#Conclusão)
 
@@ -72,7 +71,7 @@ Nesse caso são os título de cada célula do excel, para isso geramos um
 link de fácil acesso para entendermos esses termos.
 Caso tenha interesse acesse o link abaixo: 
 
-- <a href='https://github.com/Brudeoli17/Projeto-Marcus/blob/main/Documentos/GLOSS%C3%81RIO.pdf'><button>Glossário</button></a>
+- <a href='https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%201/Documentos/GLOSS%C3%81RIO.pdf'><button>Glossário</button></a>
 
 <p align="right"><a href="#top">voltar ao topo</a></p>
 
@@ -86,13 +85,6 @@ Caso tenha interesse acesse o link abaixo:
 <p align="right"><a href="#top">voltar ao topo</a></p>
 
 # Recomendações
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>
-
-<p align="right"><a href="#top">voltar ao topo</a></p>
-
-# Próximos Passos
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
