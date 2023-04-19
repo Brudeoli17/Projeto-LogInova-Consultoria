@@ -14,7 +14,7 @@
 * [Plano de Entrega](#Plano-de-Entrega)
 * [Glossário](#Glossário)
 * [Resultado das Análises](#Resultado-das-Análises)
-* [Recomendações](#Recomendações)
+* [Cronograma](#Cronograma)
 * [Autores](#Autores)
 * [Conclusão](#Conclusão)
 
@@ -84,7 +84,7 @@ Caso tenha interesse acesse o link abaixo:
 
 <p align="right"><a href="#top">voltar ao topo</a></p>
 
-# Recomendações
+# Cronograma 📅
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
@@ -92,8 +92,10 @@ Caso tenha interesse acesse o link abaixo:
 <p align="right"><a href="#top">voltar ao topo</a></p>
 
 # Autores
-<h3> Gabriela</h3>
-<img src= "./Sprint 1/Imagens/Gabriela.jpg" width="90">
+| Foto | Aluno | Função | LinkedIn                                                                                                  |
+|-|-|-|-| 
+| <img src = "https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%201/Imagens/Gabriela.jpg" width="60" >| Gabriela Letícia Silva  | Developer Team | <a href='https://www.linkedin.com/in/gabriela-let%C3%ADcia-6435151a2/'><button>LinkedIn</button></a> |
+| <img src = "https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%201/Imagens/Bruna.jpeg" width="60" >| Bruna Camille Barbosa de Oliveira  | Developer Team | <a href='https://www.linkedin.com/in/bruna-oliveira-0487a9242'><button>LinkedIn</button></a> |
 
 
 <p align="right"><a href="#top">voltar ao topo</a></p>
