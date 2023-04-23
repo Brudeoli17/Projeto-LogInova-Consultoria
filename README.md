@@ -63,6 +63,17 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
 - [x] Documentação (Ata e Glossário)
 - [x] Introdução ao Github
 
+<br/>
+
+**Sprint 2**
+- [x] Proporção de FOB e CIF
+- [x] Análise de custo/km
+- [x] Identificar top 5 rotas mais custosa
+- [x] Identificar top 5 rotas com maior quilometragem 
+- [x] Prototipo dashboard
+- [x] Documentação 
+
+
 <p align="right"><a href="#top">voltar ao topo</a></p>
 
 # Glossário
@@ -86,7 +97,7 @@ Caso tenha interesse acesse o link abaixo:
 
 # Cronograma 📅
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img src="https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%202/Planilhas/Cronograma.png" width="700"/>
 </p>
 
 <p align="right"><a href="#top">voltar ao topo</a></p>
@@ -94,8 +105,11 @@ Caso tenha interesse acesse o link abaixo:
 # Autores
 | Foto | Aluno | Função | LinkedIn                                                                                                  |
 |-|-|-|-| 
+| <img src = "https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%201/Imagens/Luara.jpeg" width="60" >| Luara Karine de Almeida Rodrigues  | Product Owner | <a href='https://www.linkedin.com/in/luara-karine-5756a91a2'><button>LinkedIn</button></a> |
+| <img src = "https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%201/Imagens/Elaine.png" width="60" >| Elaine Cristina Tertuliano C. Ferreira  | Scrum Master | 
 | <img src = "https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%201/Imagens/Gabriela.jpg" width="60" >| Gabriela Letícia Silva  | Developer Team | <a href='https://www.linkedin.com/in/gabriela-let%C3%ADcia-6435151a2/'><button>LinkedIn</button></a> |
 | <img src = "https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%201/Imagens/Bruna.jpeg" width="60" >| Bruna Camille Barbosa de Oliveira  | Developer Team | <a href='https://www.linkedin.com/in/bruna-oliveira-0487a9242'><button>LinkedIn</button></a> |
+| <img src = "https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%201/Imagens/Iago.jpeg" width="60" >| Iago Luis Fabricio Acosta  | Developer Team | <a href='https://www.linkedin.com/in/iago-acosta'><button>LinkedIn</button></a> |
 
 
 <p align="right"><a href="#top">voltar ao topo</a></p>
