@@ -54,7 +54,7 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
 
 <p align="right"><a href="#top">voltar ao topo</a></p>
 
-# Plano de Entrega
+# Plano de Entrega ✔
 **Sprint 1**
 - [x] Login Jira e Github
 - [x] Análise de dados através de programação python
