@@ -76,7 +76,7 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
 
 <p align="right"><a href="#top">voltar ao topo</a></p>
 
-# Glossário
+# Glossário 📖
 Um glossário é um determinado domínio de conhecimento com a definição de termos de difícil compreensão.  
 Nesse caso são os título de cada célula do excel, para isso geramos um 
 link de fácil acesso para entendermos esses termos.
