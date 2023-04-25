@@ -102,7 +102,7 @@ Caso tenha interesse acesse o link abaixo:
 
 <p align="right"><a href="#top">voltar ao topo</a></p>
 
-# Autores
+# Autores  📃
 | Foto | Aluno | Função | LinkedIn                                                                                                  |
 |-|-|-|-| 
 | <img src = "https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%201/Imagens/Luara.jpeg" width="60" >| Luara Karine de Almeida Rodrigues  | Product Owner | <a href='https://www.linkedin.com/in/luara-karine-5756a91a2'><button>LinkedIn</button></a> |
