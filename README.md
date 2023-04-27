@@ -83,7 +83,7 @@ link de fácil acesso para entendermos esses termos.
 Caso tenha interesse acesse o link abaixo: 
 
 - <a href='https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%201/Documentos/GLOSS%C3%81RIO.pdf'><button>Glossário</button></a>
-- <a href='https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/tree/main/Sprint%202'><button>Documentação Sprint 2</button></a>
+- <a href='https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/tree/main/Sprint%202/Documenta%C3%A7%C3%A3o'><button>Documentação Sprint 2</button></a>
 
 <p align="right"><a href="#top">voltar ao topo</a></p> 
 
