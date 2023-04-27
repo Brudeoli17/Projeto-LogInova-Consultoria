@@ -27,7 +27,7 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
 <p align="right"><a href="#top">voltar ao topo</a></p>
 
 # Contexto e Objetivos do Projeto 🎯
-  O objetivo do projeto da LogInova é ajudar a organização do cliente a melhorar suas operações logísticas, reduzir custos e aumentar a eficiência. O projeto pode incluir análises detalhadas dos processos logísticos da organização, identificação de gargalos, sugestões de melhorias, implementação de tecnologias e métodos mais eficientes, e recomendações de melhores práticas do setor.
+  Nós, alunos do 6º semestre do curso de Logística da Faculdade de Tecnologia Jessen Vidal, desenvolvemos este projeto para fins acadêmicos, afim de complementar e aprimorar nossa capacidade analítica e logística. Para isso, temos como objetivo do projeto LogInova incluir análises detalhadas dos processos logísticos da organização, identificação de gargalos, implementação de tecnologias e métodos mais eficientes, e recomendações de melhores práticas do setor.
 </p>
 
 <p align="right"><a href="#top">voltar ao topo</a></p>
@@ -70,7 +70,7 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
 - [x] Análise de custo/km
 - [x] Identificar top 5 rotas mais custosa
 - [x] Identificar top 5 rotas com maior quilometragem 
-- [x] Prototipo dashboard
+- [x] Aprimoração do Dashboard
 - [x] Documentação 
 
 
