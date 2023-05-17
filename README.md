@@ -47,9 +47,8 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
   
 # Metodologia Utilizada 👨‍💻
   A LogInova utiliza uma variedade de tecnologias para ajudar seus clientes a melhorar a eficiência de suas operações logísticas. Algumas das tecnologias mais comuns     usadas pela empresa incluem:
-  - Jira Software
-  - GitHub
-  - Google Colab
+<p align="center">
+  <img src="https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%201/Imagens/Metodologias.gif" width="700"/)  
 </p>
 
 <p align="right"><a href="#top">voltar ao topo</a></p>
