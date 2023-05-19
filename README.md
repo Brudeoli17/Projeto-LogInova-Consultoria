@@ -16,7 +16,8 @@
 * [Resultado das Análises](#Resultado-das-Análises)
 * [Cronograma](#Cronograma)
 * [Autores](#Autores)
-* [Conclusão](#Conclusão)
+
+</br>
 
 # História da Empresa 📚
   A LogInova é uma empresa de consultoria em logística fundada em 2022 por um grupo de profissionais com experiência no setor. A empresa foi criada com o objetivo de ajudar organizações a otimizar suas operações logísticas, reduzir custos e melhorar a eficiência.
@@ -47,9 +48,8 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
   
 # Metodologia Utilizada 👨‍💻
   A LogInova utiliza uma variedade de tecnologias para ajudar seus clientes a melhorar a eficiência de suas operações logísticas. Algumas das tecnologias mais comuns     usadas pela empresa incluem:
-  - Jira Software
-  - GitHub
-  - Google Colab
+<p align="center">
+  <img src="https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%201/Imagens/Metodologias.gif" width="700"/)  
 </p>
 
 <p align="right"><a href="#top">voltar ao topo</a></p>
@@ -111,16 +111,9 @@ Caso tenha interesse acesse o link abaixo:
 | <img src = "https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%201/Imagens/Gabriela.jpeg" width="50" >| Gabriela Letícia Silva  | Developer Team | <a href='https://www.linkedin.com/in/gabriela-let%C3%ADcia-6435151a2/'><button>LinkedIn</button></a> |
 | <img src = "https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%201/Imagens/Bruna.jpeg" width="60" >| Bruna Camille Barbosa de Oliveira  | Developer Team | <a href='https://www.linkedin.com/in/bruna-oliveira-0487a9242'><button>LinkedIn</button></a> |
 | <img src = "https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%201/Imagens/Iago.jpeg" width="60" >| Iago Luis Fabricio Acosta  | Developer Team | <a href='https://www.linkedin.com/in/iago-acosta'><button>LinkedIn</button></a> |
-
-
-<p align="right"><a href="#top">voltar ao topo</a></p>
-
-
-# Conclusão
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>
+| <img src = "https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%201/Imagens/Marcelo.jpeg" width="60" >| Marcelo Rodolfo P. Batista  | Developer Team | <a href= 'https://www.linkedin.com/mwlite/in/marcelo-batista-8529b0200'><button>LinkedIn</button></a> |
 
 <p align="right"><a href="#top">voltar ao topo</a></p>
+
 
 
