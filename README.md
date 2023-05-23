@@ -11,11 +11,11 @@
 * [Contexto e Objetivos do Projeto](#Contexto-e-Objetivos-do-Projeto-)
 * [Funcionalidades do Projeto](#Funcionalidades-do-Projeto-)
 * [Metodologia Utilizada](#Metodologia-Utilizada-)
-* [Plano de Entrega](#Plano-de-Entrega)
-* [Glossário](#Glossário)
-* [Resultado das Análises](#Resultado-das-Análises)
-* [Cronograma](#Cronograma)
-* [Autores](#Autores)
+* [Plano de Entrega](#Plano-de-Entrega-)
+* [Glossário](#Glossário-)
+* [Resultado das Análises](#Resultado-das-Análises-)
+* [Cronograma](#Cronograma-)
+* [Autores](#Autores-)
 
 </br>
 
