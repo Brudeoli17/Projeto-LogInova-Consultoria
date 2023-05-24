@@ -10,7 +10,7 @@
 * [História da Empresa](#História-da-Empresa-)
 * [Contexto e Objetivos do Projeto](#Contexto-e-Objetivos-do-Projeto-)
 * [Funcionalidades do Projeto](#Funcionalidades-do-Projeto-)
-* [Metodologia Utilizada](#Metodologia-Utilizada-)
+* [Metodologias Utilizadas](#Metodologias-Utilizadas-)
 * [Plano de Entrega](#Plano-de-Entrega-)
 * [Glossário](#Glossário-)
 * [Resultado das Análises](#Resultado-das-Análises)
@@ -46,7 +46,7 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
  
  <p align="right"><a href="#top">voltar ao topo</a></p>
   
-# Metodologia Utilizada 👨‍💻
+# Metodologias Utilizadas 👨‍💻
   A LogInova utiliza uma variedade de tecnologias para ajudar seus clientes a melhorar a eficiência de suas operações logísticas. Algumas das tecnologias mais comuns     usadas pela empresa incluem:
 <p align="center">
   <img src="https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%201/Imagens/Metodologias.gif" width="700"/)  
