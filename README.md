@@ -55,12 +55,20 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
 <p align="right"><a href="#top">voltar ao topo</a></p>
 
 # Plano de Entrega ✔
-
+**Sprint 1**
 <p align="center">
-  <img src="https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%203/Imagens/Gr%C3%A1fico%20de%20burndown.PNG" width="500"/)  
+  <img src="https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%203/Imagens/Gr%C3%A1fico%20de%20burndown%201.PNG" width="700"/)  
 </p>
 
-
+**Sprint 2**
+<p align="center">
+  <img src="https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%203/Imagens/Gr%C3%A1fico%20de%20burndown%202.PNG" width="700"/)  
+</p>
+  
+ **Sprint 3**
+<p align="center">
+  <img src="https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%203/Imagens/Gr%C3%A1fico%20de%20burndown%203.PNG" width="700"/)  
+</p>
 <p align="right"><a href="#top">voltar ao topo</a></p>
 
 # Glossário 📖
