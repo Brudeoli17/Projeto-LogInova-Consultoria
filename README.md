@@ -55,23 +55,10 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
 <p align="right"><a href="#top">voltar ao topo</a></p>
 
 # Plano de Entrega ✔
-**Sprint 1**
-- [x] Login Jira e Github
-- [x] Análise de dados através de programação python
-- [x] Apontamento das inconsistências
-- [x] Modelo Dashboard
-- [x] Documentação (Ata e Glossário)
-- [x] Introdução ao Github
 
-<br/>
-
-**Sprint 2**
-- [x] Proporção de FOB e CIF
-- [x] Análise de custo/km
-- [x] Identificar top 5 rotas mais custosa
-- [x] Identificar top 5 rotas com maior quilometragem 
-- [x] Aprimoração do Dashboard
-- [x] Documentação 
+<p align="center">
+  <img src="https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%203/Imagens/Gr%C3%A1fico%20de%20burndown.PNG" width="500"/)  
+</p>
 
 
 <p align="right"><a href="#top">voltar ao topo</a></p>
