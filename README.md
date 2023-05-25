@@ -93,7 +93,7 @@ Caso tenha interesse acesse o link abaixo:
 
 # Cronograma 📅
 <p align="center">
-<img src="https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%202/Planilhas/Cronograma.jpg" width="900"/>
+<img src="https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%203/Imagens/Cronograma.png" width="900"/>
 </p>
 
 <p align="right"><a href="#top">voltar ao topo</a></p>
