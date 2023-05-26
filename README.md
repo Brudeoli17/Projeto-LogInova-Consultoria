@@ -28,7 +28,7 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
 <p align="right"><a href="#top">voltar ao topo</a></p>
 
 # Contexto e Objetivos do Projeto 🎯
-  Nós, alunos do 6º semestre do curso de Logística da Faculdade de Tecnologia Jessen Vidal, desenvolvemos este projeto para fins acadêmicos, afim de complementar e aprimorar nossa capacidade analítica e logística. Para isso, temos como objetivo do projeto LogInova incluir análises detalhadas dos processos logísticos da organização, identificação de gargalos, implementação de tecnologias e métodos mais eficientes, e recomendações de melhores práticas do setor.
+  Nós, alunos do 6º semestre do curso de Logística da Faculdade de Tecnologia Jessen Vidal, desenvolvemos este projeto com o propósito acadêmico de complementar e aprimorar nossa capacidade analítica e logística. O objetivo principal do projeto LogInova é realizar análises detalhadas dos processos logísticos da organização, identificar gargalos, implementar tecnologias e métodos mais eficientes, além de recomendar melhores práticas do setor.
 </p>
 
 <p align="right"><a href="#top">voltar ao topo</a></p>
