@@ -55,27 +55,25 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
 <p align="right"><a href="#top">voltar ao topo</a></p>
 
 # Plano de Entrega ✔
-**Sprint 1**
+**Burndown Sprint 1**
 <p align="center">
   <img src="https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%203/Imagens/Gr%C3%A1fico%20de%20burndown%201.PNG" width="700"/)  
 </p>
 
-**Sprint 2**
+**Burndown Sprint 2**
 <p align="center">
   <img src="https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%203/Imagens/Gr%C3%A1fico%20de%20burndown%202.PNG" width="700"/)  
 </p>
   
- **Sprint 3**
+ **Burndown Sprint 3**
 <p align="center">
   <img src="https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%203/Imagens/Gr%C3%A1fico%20de%20burndown%203.PNG" width="700"/)  
 </p>
 <p align="right"><a href="#top">voltar ao topo</a></p>
 
 # Glossário 📖
-Um glossário é um determinado domínio de conhecimento com a definição de termos de difícil compreensão.  
-Nesse caso são os título de cada célula do excel, para isso geramos um 
-link de fácil acesso para entendermos esses termos.
-Caso tenha interesse acesse o link abaixo: 
+Para melhor entendimento dos termos utilizados neste projeto, disponibilizamos um glossáio contento os significados das nomeclaturas.
+Para acesso, segue link abaixo.
 
 - <a href='https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%201/Documentos/GLOSS%C3%81RIO.pdf'><button>Glossário</button></a>
 - <a href='https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/tree/main/Sprint%202/Documenta%C3%A7%C3%A3o'><button>Documentação Sprint 2</button></a>
