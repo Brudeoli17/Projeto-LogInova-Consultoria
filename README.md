@@ -35,11 +35,11 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
 
 #  Funcionalidades do projeto 🔨
 
- - `Funcionalidade 1`: Análise de custos de todos os processos para identificar minimizações
+ - `Funcionalidade 1`: Análise dos custos logísticos da empresa  
  
  - `Funcionalidade 2`: Análise de processos logísticos existentes para identificar oportunidades de melhoria
     
- - `Funcionalidade 2a`: Desenvolvimento de soluções personalizadas para atender às necessidades específicas do cliente
+ - `Funcionalidade 2a`: Desenvolvimento de soluções tecnologicas para as necessidades do cliente
     
  - `Funcionalidade 3`: Identificação de gargalos e recomendações de ações para solucioná-los
  </p>
