@@ -2,8 +2,7 @@
 
 ![logo](https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%201/Imagens/LogInova.gif)
 
-  <h1 align="center"> :construction: Projeto em construção :construction: </h1>
-  
+ 
   # Índice 
 
 
