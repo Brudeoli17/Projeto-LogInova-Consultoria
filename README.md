@@ -82,10 +82,28 @@ Para acesso, segue link abaixo.
 <br/>
 
 # Resultado das Análises
-
-- <a href='https://app.powerbi.com/groups/me/reports/d5b0f8c3-d1ad-4eec-a4a4-1b1bbceca5bf'><button>Dashboard Sprint 1</button></a>
-- <a href='https://app.powerbi.com/groups/me/reports/1b5eb448-db3f-4b02-a559-85c7f9ddd762'><button>Dashboard Sprint 2</button></a>
-
+**Sprint 1**
+<br/>
+<p align="center">
+  <img src="https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%203/Imagens/Sprint%201.gif" width="700"/)  
+</p>
+ <br/>
+  <br/>
+ 
+ **Sprint 2**
+ <br/>
+<p align="center">
+  <img src="https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%203/Imagens/Sprint%202.gif" width="700"/)  
+</p>
+ <br/>
+  <br/>
+ 
+**Sprint 3**
+<br/>
+ <p align="center">
+  <img src="https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%203/Imagens/Sprint%203.gif" width="700"/)  
+</p>
+ 
 <p align="right"><a href="#top">voltar ao topo</a></p>
 
 # Cronograma 📅
