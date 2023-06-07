@@ -68,7 +68,14 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
 <p align="center">
   <img src="https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%203/Imagens/Gr%C3%A1fico%20de%20burndown%203.PNG" width="700"/)  
 </p>
+ 
+  **Burndown Sprint 4**
+<p align="center">
+  <img src="https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%204/Imagens/Sprint%204.PNG" width="700"/)  
+</p>
 <p align="right"><a href="#top">voltar ao topo</a></p>
+
+
 
 # Glossário 📖
 Para melhor entendimento dos termos utilizados neste projeto, disponibilizamos um glossáio contento os significados das nomeclaturas.
