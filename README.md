@@ -10,10 +10,11 @@
 * [Contexto e Objetivos do Projeto](#Contexto-e-Objetivos-do-Projeto-)
 * [Funcionalidades do Projeto](#Funcionalidades-do-Projeto-)
 * [Metodologias Utilizadas](#Metodologias-Utilizadas-)
-* [Plano de Entrega](#Plano-de-Entrega-)
-* [Glossário](#Glossário-)
-* [Resultado das Análises](#Resultado-das-Análises)
+* [Tecnologias Logísticas](#Tecnologias-Logísticas-)
 * [Cronograma](#Cronograma-)
+* [Acompanhamento de Entrega](#Acompanhamento-de-Entrega-)
+* [Documentação](#Documentação-)
+* [Resultado das Análises](#Resultado-das-Análises)
 * [Autores](#Autores-)
 
 </br>
@@ -38,7 +39,7 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
  
  - `Funcionalidade 2`: Análise de processos logísticos existentes para identificar oportunidades de melhoria
     
- - `Funcionalidade 2a`: Desenvolvimento de soluções tecnologicas para as necessidades do cliente
+ - `Funcionalidade 2a`: Aplicação de soluções tecnologicas para as necessidades do cliente
     
  - `Funcionalidade 3`: Identificação de gargalos e recomendações de ações para solucioná-los
  </p>
@@ -46,14 +47,36 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
  <p align="right"><a href="#top">voltar ao topo</a></p>
   
 # Metodologias Utilizadas 👨‍💻
-  A LogInova utiliza uma variedade de tecnologias para ajudar seus clientes a melhorar a eficiência de suas operações logísticas. Algumas das tecnologias mais comuns     usadas pela empresa incluem:
+  A LogInova utiliza uma variedade de tecnologias para ajudar seus clientes a melhorar a eficiência de suas operações logísticas. Algumas das tecnologias utilizadas pela empresa incluem:
 <p align="center">
   <img src="https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%201/Imagens/Metodologias.gif" width="700"/)  
 </p>
 
+ # Tecnologias Logísticas 📈
+ Pensando em minimizar custos e identificar gargalos, direcionamos nossos esforços para aplicar tecnologias de TI em soluções de gestão logística. Utilizamos técnicas como COG (Centro de Gravidade), DEA (Análise Envoltória de Dados) e VRP Solver para identificação de distâncias para calcular o custo real por quilômetro e por unidade. As principais funcionalidades dessas tecnologias são:
+ 
+ `Identificação das Distâncias `: Para atender à demanda do cliente e identificar o custo de frete por quilômetro rodado e por unidade transportada, aplicamos a tecnologia VRP Solver. Para isso, preenchemos as informações específicas do nosso cenário, que inclui 51 clientes e 3 fábricas. Utilizamos as coordenadas de latitude e longitude fornecidas pelo cliente em nossa base de dados e, por meio de uma API com o Bing, preenchemos as distâncias em tempo real. Dessa forma, conseguimos obter os dados necessários para calcular os custos de frete com precisão.
+ 
+  ` Análise Envoltória de Dados (DEA) `: Com o objetivo de identificar as rotas mais eficientes em termos de quantidade de viagens, custo de frete e quantidade transportada, aplicamos a técnica de DEA usando a linguagem de programação R. Essa abordagem nos permitiu identificar rotas que não estavam sendo eficientes de acordo com os critérios estabelecidos, possibilitando a implementação de estratégias para minimizar custos e maximizar a eficiência do transporte, bem como o aumento do nível de satisfação dos clientes por oferecer um serviço mais eficiente.
+ 
+ `Centro da Gravidade (COG) `: No atual cenário com 3 fábricas atendendo a 51 clientes, utilizamos o COG com a linguagem de programação Python para identificar a localização ideal que atenda à demanda dos clientes. Utilizando as coordenadas de latitude e longitude dos clientes, pudemos determinar sua localização geográfica. Em seguida, agrupamos esses clientes com base em sua proximidade, formando um total de 7 clusters, levando em consideração a demanda de cada grupo. Por fim, utilizamos os centros de gravidade desses grupos de clientes para identificar a localização mais adequada para a fábrica, proporcionando uma distribuição estratégica dos recursos logísticos.
+ 
+ 
+ 
+ 
 <p align="right"><a href="#top">voltar ao topo</a></p>
 
-# Plano de Entrega ✔
+# Cronograma 📅 
+O projeto foi dividido em 4 sprint, sendo cada sprint composta por uma entrega. Para gerenciar as atividades desenvolvidas pela equipe, utilizamos a tecnologia Jira Software, visando o acompanhamento e progresso.
+
+<p align="center">
+<img src="https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%203/Imagens/Cronograma.png" width="900"/>
+</p>
+
+<p align="right"><a href="#top">voltar ao topo</a></p>
+
+# Acompanhamento de Entrega ✔
+Para garantir a eficiência na execução deste projeto, utilizamos a metodologia ágil. Através do gráfico de burndown, apresentamos a evolução do nosso trabalho ao longo das sprints. Esses gráficos ilustram o progresso alcançado e nos permitem acompanhar de perto o cumprimento das metas e prazos estabelecidos.
 **Burndown Sprint 1**
 <p align="center">
   <img src="https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%203/Imagens/Gr%C3%A1fico%20de%20burndown%201.PNG" width="700"/)  
@@ -77,12 +100,14 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
 
 
 
-# Glossário 📖
+# Documentação 📖
 Para melhor entendimento dos termos utilizados neste projeto, disponibilizamos um glossáio contento os significados das nomeclaturas.
 Para acesso, segue link abaixo.
 
 - <a href='https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%201/Documentos/GLOSS%C3%81RIO.pdf'><button>Glossário</button></a>
+- <a href='https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/tree/main/Sprint%201/Documentos/Documentos%20Sprint%201'><button>Documentação Sprint 1</button></a> 
 - <a href='https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/tree/main/Sprint%202/Documenta%C3%A7%C3%A3o'><button>Documentação Sprint 2</button></a>
+- <a href='https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/tree/main/Sprint%203/Documentos'><button>Documentação Sprint 3</button></a>
 
 <p align="right"><a href="#top">voltar ao topo</a></p> 
 
@@ -110,15 +135,17 @@ Para acesso, segue link abaixo.
  <p align="center">
   <img src="https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%203/Imagens/Sprint%203.gif" width="700"/)  
 </p>
+   <br/>
+    <br/>
+  
+**Sprint 4**
+<br/>
+ <p align="center">
+  <img src="https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%204/Imagens/Sprint%204.gif" width="700"/)  
+</p>  
  
 <p align="right"><a href="#top">voltar ao topo</a></p>
 
-# Cronograma 📅
-<p align="center">
-<img src="https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%203/Imagens/Cronograma.png" width="900"/>
-</p>
-
-<p align="right"><a href="#top">voltar ao topo</a></p>
 
 # Autores 📃
 | Foto | Aluno | Função | LinkedIn                                                                                                  |
