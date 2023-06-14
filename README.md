@@ -10,7 +10,7 @@
 * [Contexto e Objetivos do Projeto](#Contexto-e-Objetivos-do-Projeto-)
 * [Funcionalidades do Projeto](#Funcionalidades-do-Projeto-)
 * [Metodologias Utilizadas](#Metodologias-Utilizadas-)
-* [Tecnologias Logísticas](#Tecnologias-Logísticas-)
+* [Tecnologias Logísticas](#Tecnologias-Logísticas)
 * [Cronograma](#Cronograma-)
 * [Acompanhamento de Entrega](#Acompanhamento-de-Entrega-)
 * [Documentação](#Documentação-)
@@ -52,7 +52,7 @@ A LogInova também é reconhecida por seus consultores altamente qualificados, q
   <img src="https://github.com/Brudeoli17/Projeto-LogInova-Consultoria/blob/main/Sprint%201/Imagens/Metodologias.gif" width="700"/)  
 </p>
 
- # Tecnologias Logísticas :chart_with_upwards_trend:
+ # Tecnologias Logísticas 📈
  Pensando em minimizar custos e identificar gargalos, direcionamos nossos esforços para aplicar tecnologias de TI em soluções de gestão logística. Utilizamos técnicas como COG (Centro de Gravidade), DEA (Análise Envoltória de Dados) e VRP Solver para identificação de distâncias para calcular o custo real por quilômetro e por unidade. As principais funcionalidades dessas tecnologias são:
  
  `Identificação das Distâncias `: Para atender à demanda do cliente e identificar o custo de frete por quilômetro rodado e por unidade transportada, aplicamos a tecnologia VRP Solver. Para isso, preenchemos as informações específicas do nosso cenário, que inclui 51 clientes e 3 fábricas. Utilizamos as coordenadas de latitude e longitude fornecidas pelo cliente em nossa base de dados e, por meio de uma API com o Bing, preenchemos as distâncias em tempo real. Dessa forma, conseguimos obter os dados necessários para calcular os custos de frete com precisão.
