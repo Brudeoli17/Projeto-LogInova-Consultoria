@@ -10,7 +10,7 @@
 * [Contexto e Objetivos do Projeto](#Contexto-e-Objetivos-do-Projeto-)
 * [Funcionalidades do Projeto](#Funcionalidades-do-Projeto-)
 * [Metodologias Utilizadas](#Metodologias-Utilizadas-)
-* [Tecnologias Logísticas](#Tecnologias-Logísticas)
+* [Tecnologias Logísticas](#Tecnologias-Logísticas-)
 * [Cronograma](#Cronograma-)
 * [Acompanhamento de Entrega](#Acompanhamento-de-Entrega-)
 * [Documentação](#Documentação-)
